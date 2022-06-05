@@ -1,0 +1,20 @@
+								PROJECT REPORT
+
+I have submitted two codes Server.py and Client.py which were written in python3.
+Host is local host 192.168.43.227 and port number is 65432.
+In this project I have used the modules threading, time and socket.
+When the server and the 3 clients are connected you will receive the first question and you will have the buzzer.
+For attempting the question you can press any key and then ENTER. 
+Do not press ENTER without entering any character.
+Do not write any unnecessary things. This may effect the Quiz.
+You have to press the buzzer in 10 seconds. Else it will go to next question.
+The contestant who presses the buzzer will answer the question.
+If the answer is true he will be awarded 1 point and if it is false or if you don't answer after pressing the buzzer you will be deducted -0.5.
+The player who gets the 5 points first will be thye winner.
+If all the questions are done, the game will be a draw.
+Clients should not exit in between.
+
+Done by
+
+D V N P S M Manohar Suggula
+IMT2019025.
